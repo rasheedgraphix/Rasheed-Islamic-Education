@@ -1,0 +1,6 @@
+{
+  "name": "Rasheed Islamic Education",
+  "description": "An advanced Islamic education application with Prayer Times, Qibla Compass, Quran Module, Digital Tasbeeh, Dars-e-Nizami Classes with custom book PDF reader, MCQ test system, and AI Ustaad Smart Q&A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
